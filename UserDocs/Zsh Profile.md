@@ -137,4 +137,4 @@ prompt部分是首次登录的一些提示信息。
 
 ## 写在最后
 
-该配置由[Albert Wang](https://github.com/Albert26193)的[lab-dev-ops](https://github.com/Albert26193/lab-server-ops)工具生成。
+该配置由[Albert Wang](https://github.com/Albert26193)的[lab-server-ops](https://github.com/Albert26193/lab-server-ops)工具生成。

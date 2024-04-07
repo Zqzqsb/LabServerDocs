@@ -26,7 +26,7 @@ ssh -i your_key_file user@server_ip
 
 #### 配置
 
-推荐讲秘钥写入你的ssh配置中，这个配置对应 ~/.ssh/config,如果你在~/.ssh/ 下找不到config文件，需要手动创建。
+推荐讲秘钥写入你的ssh配置中，这个配置对应 \~/.ssh/config,如果你在\~/.ssh/ 下找不到config文件，需要手动创建。
 
 ```config
 Host FudanGPUServer35
